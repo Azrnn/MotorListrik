@@ -1,3 +1,5 @@
+//https://github.com/Aufazahron/MotorListrik
+//Create By Azrn <3
 byte sda = 10;
 byte rst = 9;
 
